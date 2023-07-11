@@ -1,1 +1,1 @@
-# cell_detective
+# Cell detection, track and segmentation
